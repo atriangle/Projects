@@ -1,5 +1,5 @@
 # Projects
-Submit a Pull Request for your project
+Fork this repo. Edit the README.md. Submit a Pull Request.
 
 # What does your project DO?
 *Give a 2-3 sentence summary of what your project does. Dont worry about the technicality. Theres another place for that.*
